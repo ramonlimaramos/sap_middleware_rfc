@@ -120,7 +120,7 @@ Finally, the connection is closed automatically when the instance is deleted by 
 
 You might want to use the server project builtin for invoke SAP/RFC results direct from REST service:
 
-![](https://github.com/ramonlimaramos/sap_middleware_rfc/raw/master/examples/%20img1_rest.png)
+![](https://raw.githubusercontent.com/ramonlimaramos/sap_middleware_rfc/master/examples/img1_rest.png)
 
 ![](https://github.com/ramonlimaramos/sap_middleware_rfc/raw/master/examples/%20img2_rest.png)
 
