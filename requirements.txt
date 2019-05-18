@@ -1,0 +1,13 @@
+Click==7.0
+Flask==1.0.2
+Flask-Cors==3.0.6
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.0
+pika==0.12.0
+pkg-resources==0.0.0
+pyrfc==1.9.93
+simplejson==3.16.0
+six==1.11.0
+uWSGI==2.0.17.1
+Werkzeug==0.14.1

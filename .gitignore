@@ -1,0 +1,52 @@
+__pycache__/
+
+venv
+dev_rfc.trc
+sap_ew_messaging.py
+sap_ew_messaging_backup.py
+sap_ew_server.py
+sap_training_portal_server_backup.py
+sap_training_portal_server.py
+worker.py
+sap_worker.py
+sap_sender.py
+new_task.py
+
+# Python
+.installed.cfg
+bin
+develop-eggs
+dist
+downloads
+eggs
+parts
+src/*.egg-info
+lib
+lib64
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
